@@ -7,6 +7,7 @@ const MainPage = () => {
       <h1>Welcome to the E-commerce Store!</h1>
       <Link to="/payment">
         <button>Pay Now</button>
+        <button>Home</button>
       </Link>
     </div>
   );
